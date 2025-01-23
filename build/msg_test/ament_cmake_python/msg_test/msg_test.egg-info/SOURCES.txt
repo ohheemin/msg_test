@@ -1,0 +1,6 @@
+setup.py
+msg_test/__init__.py
+msg_test.egg-info/PKG-INFO
+msg_test.egg-info/SOURCES.txt
+msg_test.egg-info/dependency_links.txt
+msg_test.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+Invoking command in '/home/ohheemin/ros2_ws/src/msg_test/build/msg_test': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ohheemin/ros2_ws/src/msg_test -DCMAKE_INSTALL_PREFIX=/home/ohheemin/ros2_ws/src/msg_test/install/msg_test
+Invoked command in '/home/ohheemin/ros2_ws/src/msg_test/build/msg_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ohheemin/ros2_ws/src/msg_test -DCMAKE_INSTALL_PREFIX=/home/ohheemin/ros2_ws/src/msg_test/install/msg_test
+Invoking command in '/home/ohheemin/ros2_ws/src/msg_test/build/msg_test': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ohheemin/ros2_ws/src/msg_test/build/msg_test -- -j32 -l32
+Invoked command in '/home/ohheemin/ros2_ws/src/msg_test/build/msg_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ohheemin/ros2_ws/src/msg_test/build/msg_test -- -j32 -l32
+Invoking command in '/home/ohheemin/ros2_ws/src/msg_test/build/msg_test': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ohheemin/ros2_ws/src/msg_test/build/msg_test
+Invoked command in '/home/ohheemin/ros2_ws/src/msg_test/build/msg_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ohheemin/ros2_ws/src/msg_test/build/msg_test

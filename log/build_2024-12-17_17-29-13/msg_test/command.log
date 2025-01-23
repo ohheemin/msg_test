@@ -1,0 +1,2 @@
+Invoking command in '/home/ohheemin/ros2_ws/src/msg_test/build/msg_test': /usr/bin/cmake /home/ohheemin/ros2_ws/src/msg_test -DCMAKE_INSTALL_PREFIX=/home/ohheemin/ros2_ws/src/msg_test/install/msg_test
+Invoked command in '/home/ohheemin/ros2_ws/src/msg_test/build/msg_test' returned '1': /usr/bin/cmake /home/ohheemin/ros2_ws/src/msg_test -DCMAKE_INSTALL_PREFIX=/home/ohheemin/ros2_ws/src/msg_test/install/msg_test

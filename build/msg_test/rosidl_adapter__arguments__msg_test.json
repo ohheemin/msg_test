@@ -1,0 +1,6 @@
+{
+  "package_name": "msg_test",
+  "non_idl_tuples": [
+    "/home/ohheemin/ros2_ws/src/msg_test:msg/Sum.msg"
+  ]
+}
